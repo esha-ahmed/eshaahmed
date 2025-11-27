@@ -17,22 +17,10 @@ Frontend: HTML5, CSS3, JavaScript
 Styling: Custom CSS (consider adding Tailwind CSS/Bootstrap if used)
 Deployment: Netlify
 Version Control: Git & GitHub
-📁 Project Structure
 
-text
-portfolio/
-├── index.html
-├── styles/
-│   └── style.css
-├── scripts/
-│   └── script.js
-├── assets/
-│   ├── images/
-│   └── icons/
-└── README.md
+Project Structure
 
 This portfolio website serves as my personal brand online. It includes:
-
 Home/About - Introduction and background
 Projects - Showcase of my best work
 Skills - Technical abilities and competencies
